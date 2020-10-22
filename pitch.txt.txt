@@ -1,0 +1,15 @@
+Game idea
+
+The game will be a space station defense simulation where the player controls turrets, missile launchers and other defense weapons
+to protect against aliens.
+
+The player will be able to use different kind of armament to defend the base for as long as they can before being overrun by the invaders.
+
+As time goes on the number and health of ennemies will increase which will make it increasingly difficult for the player to survive.
+
+The player loses when his health bar is depleted.
+
+I was inspired by space invaders and the asteroid simulation for Greenfoot.
+
+I'm looking for an organized team mate who didn't have much difficulty following the course and knows his way around all the features we learnt
+in Greenfoot.
